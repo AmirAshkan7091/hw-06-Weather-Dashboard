@@ -1,17 +1,19 @@
 .header {
-    font-style: italic;
-    background-color: aquamarine;
-    text-align: center !important;
+    
+    
+    background-color: rgba(0, 215, 253, 0.671);
+    text-align: center 
 }
 .col-sm-4 {
-    /* background-color: slategrey; */
+    
     margin-right: 20px;
 }
 .col-7 {
     border: 1px solid black;
 }
 .daycast {
-    background-color: powderblue;
+    
+    background-color: rgba(0, 215, 253, 0.671);
     margin: 5px;
     border-radius: 5%;
 }
@@ -38,6 +40,7 @@ color: salmon;
     color: white;
 }
 #searchResults {
+    background-color: rgba(0, 215, 253, 0.671);
     list-style: none;
 }
 .list-group-item {
